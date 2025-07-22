@@ -295,3 +295,8 @@
 [2025-07-22 11:13:15] Entered: cls
 [2025-07-22 11:13:15] ❌ Wrong Password
 [2025-07-22 11:13:15] 📸 Screenshot Saved: logs\screenshots\wrong_attempt_2025-07-22_11-13-15.png
+[2025-07-22 11:20:20] Entered: cls
+[2025-07-22 11:20:20] ❌ Wrong Password
+[2025-07-22 11:20:20] 📸 Screenshot Saved: logs\screenshots\wrong_attempt_2025-07-22_11-20-20.png
+[2025-07-22 11:20:31] Entered: 
+[2025-07-22 11:20:31] ❌ Wrong Password
